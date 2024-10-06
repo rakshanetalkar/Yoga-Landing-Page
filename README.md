@@ -15,7 +15,7 @@ The Yoga Landing Page is a simple, user-friendly single-page website built to at
 - JavaScript: For adding interactivity.
 
 # Installation
-- git clone https://github.com/your-username/yoga-website.git
+- git clone https://github.com/rakshanetalkar/Yoga-Landing-Page.git
 - cd yoga-landing-page
 - npm install
 - npm start
